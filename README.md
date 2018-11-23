@@ -79,3 +79,55 @@ wheel                     0.32.2                   py36_0
 xz                        5.2.4                h14c3975_4  
 zlib                      1.2.11               ha838bed_2 
 ```
+
+## Comprehension example:
+
+We will input some facts in out model and then ask a question. The model must output the correct answer.
+Comprehension:
+- Sita seb le kar aayi.
+- Priya galiyarey mein chali gayi.
+- Priya sayanakaksh mein chali gayi.
+- Sita galiyarey mein chali gayi.
+Q: Seb ab kahan hai? 
+A: Galiyara
+
+Comprehension:
+- Sita dhoodh le kar aayi.
+- Mohit daftar mein gaya.
+- Sita daftar mein gayi.
+- Sita galiyarey mein chali gayi.
+Q: Galiyarey se pehle dhoodh kahan per tha?    
+A: daftar
+
+
+Comprehension:
+1 Mohit seb le aaya.
+2 Mohit seb rakh aaya.
+3 Mohit bagichey mein chala gaya.
+4 Mohit galiyare mein chala gaya.
+5 Mohit ke pass kitni cheezein hai?    shunya
+
+## Results:
+The results can be found in pdf form at [sem7_results.pdf](sem7_results.pdf)
+
+## Task-wise accuracy graph:
+![Task-wise accuracy](accuracy_by_task.png)
+
+## References
+[1]
+Jason Weston, Sumit Chopra & Antoine Bordes.
+Memory Networks
+(https://arxiv.org/pdf/1410.3916.pdf)
+[2]
+Jason Weston, Sumit Chopra & Antoine Bordes.
+End-To-End Memory Networks
+(https://arxiv.org/pdf/1503.08895.pdf)
+[3]
+Adrian Colyer
+Memory Networks
+(https://blog.acolyer.org/2016/03/10/memory-networks/)
+[4]
+bAbi Dataset
+(https://research.fb.com/downloads/babi/)
+
+
