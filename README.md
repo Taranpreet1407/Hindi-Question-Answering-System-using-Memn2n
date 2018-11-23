@@ -88,24 +88,25 @@ Comprehension:
 - Priya galiyarey mein chali gayi.
 - Priya sayanakaksh mein chali gayi.
 - Sita galiyarey mein chali gayi.
-Q: Seb ab kahan hai? 
-A: Galiyara
+- Q: Seb ab kahan hai? 
+- A: Galiyara
 
 Comprehension:
 - Sita dhoodh le kar aayi.
 - Mohit daftar mein gaya.
 - Sita daftar mein gayi.
 - Sita galiyarey mein chali gayi.
-Q: Galiyarey se pehle dhoodh kahan per tha?    
-A: daftar
+- Q: Galiyarey se pehle dhoodh kahan per tha?    
+- A: daftar
 
 
 Comprehension:
-1 Mohit seb le aaya.
-2 Mohit seb rakh aaya.
-3 Mohit bagichey mein chala gaya.
-4 Mohit galiyare mein chala gaya.
-5 Mohit ke pass kitni cheezein hai?    shunya
+- Mohit seb le aaya.
+- Mohit seb rakh aaya.
+- Mohit bagichey mein chala gaya.
+- Mohit galiyare mein chala gaya.
+- Q: Mohit ke pass kitni cheezein hai?
+- A: shunya
 
 ## Results:
 The results can be found in pdf form at [sem7_results.pdf](sem7_results.pdf)
